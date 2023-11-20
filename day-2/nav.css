@@ -1,0 +1,24 @@
+hr{
+    width: 100%;
+}
+.seperate{
+    margin-left: 960px;
+}
+.nav{
+    background-color: blueviolet;
+}
+.nav-link{
+    
+}
+@media screen and (max-width: 1300px) {
+    .seperate{
+        margin-left: 600px;
+    }
+
+}
+@media screen and (max-width: 650px) {
+    .seperate{
+        margin-left: 400px;
+    }
+    
+}
