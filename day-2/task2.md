@@ -1,8 +1,8 @@
-# YouTube-Style Navbar Assignment
+# YouTube-Inspired Navbar Project
 
-**Objective:**
-Develop a responsive navigation bar reminiscent of YouTube's design using Bootstrap. Follow the instructions below to complete the assignment.
+**Goal:**
+Create a responsive navigation bar inspired by YouTube's design using Bootstrap. Please share your GitHub URL along with an image showcasing the project by sending it to my WhatsApp number: 0703840207.
 
-## Preview
-Click on the link below to preview the YouTube-style navbar:
-![YouTube-Style Navbar](https://ibb.co/fqcTyPD)
+## Project Preview
+To see a preview of the YouTube-style navbar, click on the following link:
+https://ibb.co/fqcTyPD
